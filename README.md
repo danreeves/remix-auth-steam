@@ -1,3 +1,5 @@
+Fork published at https://www.npmjs.com/package/@danreeves/remix-auth-steam
+
 # Remix Auth Steam Strategy
 
 This is a [Steam](https://steamcommunity.com/) strategy for [remix-auth](https://github.com/sergiodxa/remix-auth) library.
