@@ -1,12 +1,18 @@
 {
-  "name": "remix-auth-steam",
-  "version": "1.0.4",
+  "name": "@danreeves/remix-auth-steam",
+  "version": "2.0.0",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
-  "author": {
-    "name": "Andrii Yaroshenko",
-    "email": "haxellio@pm.me"
-  },
+  "contributors": [
+    {
+      "name": "Andrii Yaroshenko",
+      "email": "haxellio@pm.me"
+    },
+    {
+      "name": "Dan Reeves",
+      "email": "hey@danreev.es"
+    }
+  ],
   "repository": {
     "url": "https://github.com/Andreychik32/remix-auth-steam",
     "type": "git"
